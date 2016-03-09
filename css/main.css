@@ -1,0 +1,44 @@
+* {
+  border: 1px solid red; !important;
+}
+
+.squares {
+  height:100px;
+  width: 100px;
+
+}
+
+.container {
+height: 500px;
+width: 500px;
+background: gray;
+
+}
+
+#square1 {
+  background: red;
+  height:200px;
+  position:absolute;
+  top:0;
+  right:0;
+}
+
+#square2 {
+  background: blue;
+  height:px;
+  position:absolute;
+  top:0;
+  left:0;
+
+}
+
+#square3 {
+  background: green;
+}
+
+#square4 {
+  background: black;
+}
+
+
+
