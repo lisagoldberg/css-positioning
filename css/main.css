@@ -17,19 +17,18 @@ background: gray;
 
 #square1 {
   background: red;
-  height:200px;
-  position:absolute;
-  top:0;
-  right:0;
+  height: 200px;
+  float: left;
+  /*clear: left;*/
+  /*display: inline-block;*/
 }
 
 #square2 {
   background: blue;
-  height:px;
-  position:absolute;
-  top:0;
-  left:0;
-
+  width: 200px;
+  clear: right;
+  float: right;
+  /*display: inline-block;*/
 }
 
 #square3 {
